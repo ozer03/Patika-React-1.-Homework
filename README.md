@@ -1,2 +1,2 @@
 # Patika-React-1.-Homework
- www.patika.com
+ www.patika.dev
